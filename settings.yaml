@@ -1,0 +1,9 @@
+client_config:
+  client_id: 360545129366-7ggclgoms1unsojcjrv0ua39bacdkqu2.apps.googleusercontent.com
+  client_secret: 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
+client_config_backend: settings
+oauth_scope:
+- https://www.googleapis.com/auth/drive
+save_credentials: true
+save_credentials_backend: file
+save_credentials_file: /home/dheltahalo/PromoFarma/credentials/creds.dat
